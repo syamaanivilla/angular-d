@@ -1,0 +1,18 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Girijashyamlamba Anivilla <girija.anivilla@proclink.local>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   first
+#	new file:   package-lock.json
+#	new file:   package.json
+#
+# Changes not staged for commit:
+#	modified:   first (modified content, untracked content)
+#
